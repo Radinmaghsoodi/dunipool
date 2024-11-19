@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="recyclerMain" type="id" />
+    <item name="viewMain" type="id" />
+    <item name="btnShowMore" type="id" />
+    <item name="img_item" type="id" />
+    <item name="txtCoinName" type="id" />
+</resources>
